@@ -45,3 +45,20 @@ You can explore each project by opening its folder and launching the `index.html
 1. Clone the repo:
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
+
+2.	Navigate into a project folder:
+
+Olas-blog
+
+	3.	Open index.html in your browser.
+
+
+Author
+
+OLA – Frontend Developer
+Connect with me on Upwork
+GitHub Profile
+
+License
+
+This project is open source and available under the MIT License
