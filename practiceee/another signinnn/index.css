@@ -1,0 +1,210 @@
+ *{
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+ }
+
+ body{
+  background:rgb(235, 232, 232);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 25px;
+ }
+
+header{
+  color: royalblue;
+  margin-left: 120px;
+}
+
+header span{
+  color: rgb(255, 255, 255);
+  background-color: royalblue;
+}
+
+.linked-top{
+  font-size: 31px;
+  align-items: center;
+
+}
+
+.auth-container{
+  width: 100%;
+  margin-top: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+
+.form-container{
+  background:white ;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 12px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.the-form{
+  display: flex;
+  flex-direction: column;
+  padding: 0 auto;
+  margin: 0;
+}
+
+label{
+  font-size: 15px;
+  color: rgb(54, 54, 54);
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+.first-form{
+  margin-top: 11px;
+  align-items: center;
+  justify-content: center;
+}
+
+.second-form{
+  margin-top: 12px;
+}
+
+input{
+  font-size: 25px;
+  border-radius: 5px;
+  box-shadow: none;
+  font-weight: 0;
+}
+ 
+.text-remember{
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.form-text{
+  font-size: 12px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.form-text span{
+  color:  #0a66c2;
+}
+
+.agree-button{
+  font-size: 18px;
+  padding: 11px 100px;
+  background: #0a66c2;
+  color: white;
+  border-radius: 20px;
+  box-shadow: none;
+  margin-top: 20px;
+}
+
+.form-or{
+  margin-top: 18px;
+}
+
+.form-ola{
+  font-size: 18px;
+  padding: 4px 72px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: none;
+  margin-top: 20px;
+  padding:0 auto;
+}
+
+.form-div{
+  display: flex;
+}
+
+img{
+  display: flex;
+  align-items: ;
+}
+
+.form-gmail.com{
+  display: flex;
+  align-items: start;
+}
+
+.form-ola p{
+  font-size: 15px;
+}
+
+.form-ola img{
+  height: 25px;
+  border-radius: 20px;
+  
+}
+
+.form-microsoft{
+  font-size: 18px;
+  padding: 10px 72px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: none;
+  margin-top: 20px;
+
+}
+
+.form-already{
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+.form-already span{
+  color: #0a66c2;
+}
+
+.form-already a{
+  text-decoration: none;
+  transition: underline dashed o.6s ease;
+}
+
+.form-already a:hover{
+  text-decoration: underline dashed;
+
+}
+
+.form-busy{
+  margin-top: 20px;
+}
+
+.form-busy p{
+  font-size: small;
+}
+
+.form-busy span{
+  color: #0a66c2;
+}
+
+.form-busy a{
+  text-decoration: none;
+  transition: underline dashed o.3s ease;
+}
+
+.form-busy a:hover{
+  text-decoration: underline dashed;
+}
+
+footer{
+  margin-top: 20px;
+  background: white;
+  width: 100%;
+}
+
+.form-footer{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+footer a{
+  text-decoration: none;
+  font-size: small;
+  padding: 5px;
+}
